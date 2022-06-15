@@ -1,0 +1,15 @@
+{
+  "name": "bases-node",
+  "version": "0.0.1",
+  "description": "es una simple tabla de multiplicar con archivo de textos",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Escobar Joel",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^16.2.0"
+  }
+}
